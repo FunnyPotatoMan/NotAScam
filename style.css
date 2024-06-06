@@ -1,0 +1,7 @@
+table tr > * {
+    border: 5px solid;
+    padding: 10px;
+}
+body {
+    text-align: center;
+}
